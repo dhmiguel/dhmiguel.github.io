@@ -3,7 +3,7 @@
 Repositório destinado a projetos desenvolvidos.
 
 # Java:
-* [Sistema de Xadrez](https://github.com/dhmiguel/dhmiguel.github.io/tree/master/Java/chess-system)
+* [Sistema de Xadrez](https://github.com/dhmiguel/dhmiguel.github.io/tree/master/Java/chess-system)*Não finalizado*
 * [Padrão de Projetos DAO](https://github.com/dhmiguel/dhmiguel.github.io/tree/master/Java/demo-dao-jdbc)
 
 # JavaScript:
